@@ -5,7 +5,7 @@ Ce projet utilise l'API JDBC pour gérer des opérations de base de données ave
 
 ## Fonctionnalités :
 - Connexion à MySQL via JDBC.
-- Insertion de données dans les tables `DevData`.
+- Insertion de données dans les tables `Site` `DevData`.
 - Requêtes SQL dynamiques avec analyse de métadonnées.
 - Gestion des erreurs de connexion et requêtes SQL.
 
