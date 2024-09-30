@@ -5,7 +5,7 @@ Ce projet utilise l'API JDBC pour gérer des opérations de base de données ave
 
 ## Fonctionnalités :
 - Connexion à MySQL via JDBC.
-- Insertion de données dans les tables `Site` et `DevData`.
+- Insertion de données dans les tables `DevData`.
 - Requêtes SQL dynamiques avec analyse de métadonnées.
 - Gestion des erreurs de connexion et requêtes SQL.
 
@@ -16,11 +16,9 @@ Ce projet utilise l'API JDBC pour gérer des opérations de base de données ave
 4. Compiler et exécuter depuis NetBeans.
 
 ## Utilisation :
-- Exécuter les méthodes `save` et `load` pour insérer et récupérer les données.
+- Exécuter les méthodes pour insérer et récupérer les données.
 - Modifier les requêtes dynamiques dans le code pour tester différentes opérations SQL.
 
-## Démo Vidéo :
-[Voir la démonstration du projet ici](https://www.youtube.com/...)
 
 ## Crédits :
 Développé par Zaggar.
