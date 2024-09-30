@@ -19,6 +19,10 @@ Ce projet utilise l'API JDBC pour gérer des opérations de base de données ave
 - Exécuter les méthodes pour insérer et récupérer les données.
 - Modifier les requêtes dynamiques dans le code pour tester différentes opérations SQL.
 
+##VEDIO
+Demo:
+https://github.com/user-attachments/assets/865bfe09-7890-4bf1-a936-29ced8af47ac
+ExoJDBC:
 
 ## Crédits :
 Développé par Zaggar.
